@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<a href="https://angular.io/" target="__blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" alt="react" width="120" height="60"/> </a> 
+<a href="https://angular.io/" target="__blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="60" height="60"/> </a> 
 <a href="https://www.typescriptlang.org/" target="__blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> 
 <a href="https://tailwindcss.com/" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>
 <a href="https://postman.com" target="__blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> 
