@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Muili Kazeem. A frontend Angular Developer</h1>
+<h1 align="center">Hi there, I'm Muili Kazeem. An experienced front-end Angular Developer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muili-Kazeem&label=Profile%20views&color=0e75b6&style=flat" alt="Muili-Kazeem" /> </p>
 
-- 🌱 Very Advanced **Angular framework developer**
+- 🌱 Very Advanced **Angular framework developer** with more than 3 Y.O.E
 
 - 👯 Looking to collaborate on **any Angular projects and roles**
 
